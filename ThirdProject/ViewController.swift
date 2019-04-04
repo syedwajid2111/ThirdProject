@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         let str = "asd"
         let s = "sws"
         let r = "asdasdasd"
+        
+        let rav = "hello world"
     }
 
     override func didReceiveMemoryWarning() {
